@@ -1,0 +1,51 @@
+/* 🌈 Genre Section Background */
+.genre-section {
+  background-color: #f7f9fc;
+}
+
+.genre-heading {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* 🧩 Hero Text Flexbox Layout */
+.hero-text {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero-text h2,
+.hero-text p,
+.hero-text a {
+  text-align: center;
+}
+
+/* 📄 Form Section */
+.registration-section {
+  background-color: #f0f2f5;
+}
+
+.form-box {
+  background: white;
+}
+
+.form-title {
+  font-size: 1.8rem;
+  color: #333;
+}
+
+/* 🌍 Footer Styling */
+.footer {
+  font-size: 0.9rem;
+}
+
+.social-icons a {
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #00adb5;
+}
